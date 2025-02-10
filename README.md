@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khanak077
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I have worked at TCS, KPIT and KocharTech.
 - 📫 Linkedin:- https://www.linkedin.com/in/khanakchopra
 
 <!---
